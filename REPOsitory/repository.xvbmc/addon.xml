@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xvbmc" name=" [COLOR lime][B]X[/B][/COLOR]vBMC (Add-ons) REPOsitory [COLOR maroon](shutdown)[/COLOR]" version="4.2.4x" provider-name="OFFLINE">
+    <extension point="xbmc.addon.repository" name=" [COLOR lime][B]X[/B][/COLOR]vBMC (Add-ons) REPOsitory [COLOR maroon](shutdown)[/COLOR]">
+    <!--<dir>
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>-->
+    <!--<dir>
+            <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+        </dir>-->
+    <!--<dir>
+            <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+            <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+        </dir>-->
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/Dependencies/xvbmc-addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/Dependencies/xvbmc-addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/Dependencies/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+    <!--<dir>
+            <info compressed="false">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/Look-and-Feel/xvbmc-addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/Look-and-Feel/xvbmc-addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/Look-and-Feel/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>-->
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/REPOsitory/xvbmc-addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/REPOsitory/xvbmc-addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/REPOsitory/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/xvbmc-addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/xvbmc-addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir>
+            <info compressed="false">https://bitbucket.org/toetu/repository/raw/master/REPOsitory/xvbmc-addons.xml</info>
+            <checksum>https://bitbucket.org/toetu/repository/raw/master/REPOsitory/xvbmc-addons.xml.md5</checksum>
+            <datadir zip="true">https://bitbucket.org/toetu/repository/raw/master/REPOsitory/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">#SHUTDOWN: XvBMC The Netherlands (Add-ons) REPOsitory</summary>
+        <summary lang="nl">#GESTOPT!: XvBMC Nederland (Addons) REPOsitory (down)</summary>
+        <description lang="en">*CLOSED* XvBMC The Netherlands (Add-ons) Repository | XvBMC-NL (Add-on) Depot  |  UsagePolicy; https://bit.ly/Disclaimer_XvBMC-NL !!! USE AT YOUR OWN RISK !!!</description>
+        <description lang="nl">'XvBMC Nederland' heeft moeten besluiten met deze pagina te stoppen en op slot te zetten (per 26-07-2018), ook de 'XvBMC Repository' is per ommegaande offline, cq. leeggehaald waardoor deze niet meer bruikbaar zal zijn.
+
+De(ze) 'repo' zal alleen worden "vastgehouden" ter voorkoming van kaping in- en onder onze naam, een en ander om eventuele misstanden te voorkomen.</description>
+        <disclaimer lang="en">**DOWN!** The owners and submitters to this repository do not host or distribute any of the content displayed by these add-ons nor do they have any affiliation with its content. !!! SHUTDOWN !!! USE-AT-YOUR-OWN-RISK !!! OFFLINE !!!</disclaimer>
+        <disclaimer lang="nl">*GESTOPT* The owners and submitters to this repository do not host or distribute any of the content displayed by these add-ons nor do they have any affiliation with its content. !!! SHUTDOWN !!! ***SHUTDOWN INFO: https://github.com/EPiC-APOC/repository.xvbmc/blob/master/README.md</disclaimer>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+        <forum>OFFLINE</forum>
+        <website>OFFLINE</website>
+        <source>OFFLINE</source>
+        <size>995328</size>
+        <news>'XvBMC Nederland' heeft moeten besluiten met deze pagina te stoppen en op slot te zetten (per 26-07-2018), ook de 'XvBMC Repository' is per ommegaande offline, cq. leeggehaald waardoor deze niet meer bruikbaar zal zijn.
+
+De(ze) 'repo' zal alleen worden "vastgehouden" ter voorkoming van kaping in- en onder onze naam, een en ander om eventuele misstanden te voorkomen.</news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>xbmc.png</screenshot>
+        </assets>
+    </extension>
+</addon>

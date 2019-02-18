@@ -1,0 +1,9 @@
+ 
+----------
+  
+### do **NOT** use Gaia's fake 3.4.1 version;
+* includes Cryptocurrency-mining malware:
+* *'script.module.python.requests'*
+  
+----------
+ 

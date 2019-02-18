@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="script.module.python.requests" name="[COLOR red]Python Requests[/COLOR] [COLOR maroon](you should remove this)[/COLOR]" version="6.6.6" provider-name="Miovi Team">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" version="3.4.2"/>
+	</requires>
+   <extension point="xbmc.python.script" library="default.py">
+   <provides>executable</provides>
+  </extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>this dummy addon is not supported</summary>
+		<description>this dummy addon is not supported</description>
+    <disclaimer lang="en">!! do NOT use Gaia's fake 2.16(.?) version;
+-> includes Cryptocurrency-mining malware:
+=> 'script.module.python.requests'</disclaimer>
+		<platform>all</platform>
+		<language></language>
+		<license>Apache2</license>
+	</extension>
+</addon>
+
+<addon id="script.module.simplejson"
+       name="simplejson"
+       version="3.4.2"
+       provider-name="Bob Ippolito">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Simple, fast, extensible JSON encoder/decoder for Python</summary>
+    <description lang="en">Simple, fast, extensible JSON encoder/decoder for Python</description>
+    <disclaimer lang="en">Code taken from https://pypi.python.org/pypi/simplejson/
+!! do NOT use Gaia's fake 3.4.1 version;
+-> includes Cryptocurrency-mining malware:
+=> 'script.module.python.requests'</disclaimer>
+    <license>MIT License, Academic Free License v. 2.1</license>
+    <website>https://pypi.python.org/pypi/simplejson/</website>
+    <source>https://pypi.python.org/pypi/simplejson/</source>
+  </extension>
+</addon>
+</addons>
